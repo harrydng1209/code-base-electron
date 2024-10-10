@@ -3,7 +3,7 @@
   "description": "A modular and maintainable codebase for an Electron application built with React, featuring a clean folder structure, reusable components, and efficient state management for desktop environments",
   "version": "0.0.1",
   "license": "MIT",
-  "main": "./.erb/dll/main.bundle.dev.js",
+  "main": "src/main/main.ts",
   "author": {
     "name": "Harry",
     "email": "harrydng1209@gmail.com",
